@@ -16,6 +16,6 @@ Besides the notebook, **two additional files** are provided:
 
 ## Required libraries
 
-This project uses two libraries for data manipulation, namely **Pandas** and **NumPy**, as well as three packages for visualization: **Matplotlib**, **Seaborn** and **Plotly*.
+This project uses two libraries for data manipulation, namely **Pandas** and **NumPy**, as well as three packages for visualization: **Matplotlib**, **Seaborn** and **Plotly**.
 
 Depending on your execution environment, you might need to install these modules. As a reminder, you can do so using a `pip install *name_of_the_library*` command. Remember to add an exclamation mark at the beginning if you want to execute it directly in a notebook, as it is originally a terminal command.
