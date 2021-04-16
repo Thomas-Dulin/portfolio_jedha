@@ -1,4 +1,4 @@
-# Tennis Results Prediction - Can the Outcome of a Match Be Deduced From its Statistics?
+# Tennis results prediction - Can the outcome of a match be deduced from its statistics?
 
 ## Overview and objectives
 

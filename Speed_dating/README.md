@@ -1,4 +1,4 @@
-# Speed Dating - How to Get a Second Date?
+# Speed dating - How to get a second date?
 
 ## Overview and objectives
 
