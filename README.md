@@ -17,3 +17,9 @@ This was my very first Data Science project. Its objective, as the title implies
 ## Trip planning - Prepare your next holiday!
 
 Want to get some fresh air and take a few days off next week? Thanks to **APIs** and **web scraping**, we'll compile a **list of the best destinations to go to** and **the best hotels to stay in**!
+
+## Reinforcement learning - Training an artificial intelligence (AI) to play a video game
+
+You've probably already heard about the **chess match** between **Garry Kasparov** and the **Deep Blue** computer? My classmate Chunyan Frey and I tried to answer a similar problem by experimenting with **reinforcement learning** to train an AI to play the game **Activision Tennis**.
+
+### More to come soon!
